@@ -117,3 +117,26 @@ It is used to cut out selected portions of each line of a file
 e.g
 - __cut__ -d "," -f3 filename: Cut the element on the field 3 between the delimiter ","    
 
+### wget  
+
+### less  
+
+### gedit
+
+- gedit &:
+
+### bg  
+Ejecuta el proceso en el background
+
+### curl  
+
+### linkvar  
+
+### tr
+
+- tr '[:lower:]' '[:upper:]'
+
+
+### awk
+
+
